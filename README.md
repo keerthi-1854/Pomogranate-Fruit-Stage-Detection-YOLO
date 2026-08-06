@@ -135,34 +135,7 @@ Sent through serial port using PySerial in `run.py`.
 | Chassis and Wheels		      | Physical base allowing mobility across fields.                                          |
 
 ---
-## 🚀 How to Run
 
-### 1️⃣ Clone the Repository
-``` bash
-git clone https://github.com/tejteja54321/Pomegranate-Fruit-Stage-Detection-YOLO.git
-cd Pomegranate-Fruit-Stage-Detection-YOLO
-```
-
-### 2️⃣ Install Dependencies
-``` bash
-pip install -r requirements.txt
-```
-
-### 3️⃣ Run the Flask Web App (AI Detection System)
-``` bash
-python app.py
-```
-
-### 4️⃣ Run the Raspberry Pi Serial Communication Script (Hardware Control)
-``` bash
-Upload raspberry_code.ino file in hardware through aurdino software 
-python main.py or python auto.py
-```
-
-### 5️⃣ Open in Browser
-Visit http://127.0.0.1:5000 to access the web interface.
-
----
 ## 📁 Project Structure
 ``` php
 Pomegranate-Fruit-Stage-Detection-YOLO/
@@ -191,32 +164,5 @@ Pomegranate-Fruit-Stage-Detection-YOLO/
 └── README.md                   # Project documentation
 
 ```
----
 
-## 🖼️ Demo
-**🧪 Screenshots and video demo will be added once the project is completed.
-Stay tuned!**
-
----
-
-## 🙌 Credits
-- YOLOv10 model by WongKinYiu
-- Flask framework by Pallets Projects
-- Raspberry Pi hardware and GPIO libraries
-
----
-
-## 📝 License
-This project is **free to use** — just **ask for permission** before using it for personal, academic, or commercial purposes.
-
-
-## 📬 Contact & Support
-- 📧 Email: tejteja54321@gmail.com
-- 🔗 GitHub: (https://github.com/tejteja54321/)
-- 🌐 LinkedIn: [Your LinkedIn](https://www.linkedin.com/in/teja-c-03a07320b/)
-
-⭐ If you like this project, don't forget to give it a star! ⭐
-👉 Star this repository 🚀
-
-✅ 
 **NOTE:** I Haven't uploaded dataset due to size limit if you need dataset please feel free to send mail or send message in LinkedIn
