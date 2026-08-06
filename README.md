@@ -164,4 +164,3 @@ Pomegranate-Fruit-Stage-Detection-YOLO/
 └── README.md                   # Project documentation
 
 ```
-
