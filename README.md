@@ -165,4 +165,3 @@ Pomegranate-Fruit-Stage-Detection-YOLO/
 
 ```
 
-**NOTE:** I Haven't uploaded dataset due to size limit if you need dataset please feel free to send mail or send message in LinkedIn
